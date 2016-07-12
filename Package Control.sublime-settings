@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Djaneiro",
+		"Highlighter",
+		"Package Control",
+		"Pylinter",
+		"React Development Snippets",
+		"React Templates",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
+		"SublimeREPL"
+	]
+}
