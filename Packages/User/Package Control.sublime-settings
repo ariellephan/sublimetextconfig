@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Djaneiro",
 		"Highlighter",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Pylinter",
 		"React Development Snippets",

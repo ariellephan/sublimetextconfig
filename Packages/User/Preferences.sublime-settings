@@ -7,7 +7,7 @@
 	"caret_extra_top": 1,
 	"caret_extra_width": 1,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
 	"folder_exclude_patterns":
@@ -16,7 +16,7 @@
 		".bundle",
 		".sass-cache"
 	],
-	"font_size": 9,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -32,10 +32,9 @@
 	"match_brackets_square": true,
 	"soda_classic_tabs": true,
 	"soda_folder_icons": false,
-	"tab_size": 4,
+	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
-	"word_wrap": true,
-	"wrap_width": 80
+	"word_wrap": true
 }
